@@ -7,7 +7,8 @@ We analyze key racing metrics, engineer features, and evaluate multiple models.
 
 Implemented machine learning models:  
 
-
+- Logistic Regression  
+- K-Nearest Neighbors (KNN) 
 - Random Forest Classifier  
 - Decision Tree Classifier  
 - Gaussian Naïve Bayes  
